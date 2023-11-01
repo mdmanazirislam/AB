@@ -14,3 +14,4 @@ I am a boy
 I am a baby
 I am a cow
 I am a goat
+I am Ian Smith
