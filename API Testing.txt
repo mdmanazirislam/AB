@@ -1,0 +1,17 @@
+{
+    "bookingid": 1804,
+    "booking": {
+        "firstname": "Manazir",
+        "lastname": "Islam",
+        "totalprice": 111,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2018-01-01",
+            "checkout": "2019-01-01"
+             "apptTime": {
+                        "value1": "10 AM"
+            }
+        },
+        "additionalneeds": "Breakfast"
+    }
+jsonData.bookingdates.apptTime.value1
